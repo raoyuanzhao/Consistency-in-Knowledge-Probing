@@ -1,0 +1,5924 @@
+[
+    {
+        "question_idx": 0,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 1,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 2,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 3,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 4,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 5,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 6,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 7,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 8,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 9,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 10,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 11,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 12,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 13,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 14,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 15,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 16,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 17,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 18,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 19,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 20,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 21,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 22,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 23,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 24,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 25,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 26,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 27,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 28,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 29,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 30,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 31,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 32,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 33,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 34,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 35,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 36,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 37,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 38,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 39,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 40,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 41,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 42,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 43,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 44,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 45,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 46,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 47,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 48,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 49,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 50,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 51,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 52,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 53,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 54,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 55,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 56,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 57,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 58,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 59,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 60,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 61,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 62,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 63,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 64,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 65,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 66,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 67,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 68,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 69,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 70,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 71,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 72,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 73,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 74,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 75,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 76,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 77,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 78,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 79,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 80,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 81,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 82,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 83,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 84,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 85,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 86,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 87,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 88,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 89,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 90,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 91,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 92,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 93,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 94,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 95,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 96,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 97,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 98,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 99,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 100,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 101,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 102,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 103,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 104,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 105,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 106,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 107,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 108,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 109,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 110,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 111,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 112,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 113,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 114,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 115,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 116,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 117,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 118,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 119,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 120,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 121,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 122,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 123,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 124,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 125,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 126,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 127,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 128,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 129,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 130,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 131,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 132,
+        "decision": 0,
+        "prediction": "E",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 133,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 134,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 135,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 136,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 137,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 138,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 139,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 140,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 141,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 142,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 143,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 144,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 145,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 146,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 147,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 148,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 149,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 150,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 151,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 152,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 153,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 154,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 155,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 156,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 157,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 158,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 159,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 160,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 161,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 162,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 163,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 164,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 165,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 166,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 167,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 168,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 169,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 170,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 171,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 172,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 173,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 174,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 175,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 176,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 177,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 178,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 179,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 180,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 181,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 182,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 183,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 184,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 185,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 186,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 187,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 188,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 189,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 190,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 191,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 192,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 193,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 194,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 195,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 196,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 197,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 198,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 199,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 200,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 201,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 202,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 203,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 204,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 205,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 206,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 207,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 208,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 209,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 210,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 211,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 212,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 213,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 214,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 215,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 216,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 217,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 218,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 219,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 220,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 221,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 222,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 223,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 224,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 225,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 226,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 227,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 228,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 229,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 230,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 231,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 232,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 233,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 234,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 235,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 236,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 237,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 238,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 239,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 240,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 241,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 242,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 243,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 244,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 245,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 246,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 247,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 248,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 249,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 250,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 251,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 252,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 253,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 254,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 255,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 256,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 257,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 258,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 259,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 260,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 261,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 262,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 263,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 264,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 265,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 266,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 267,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 268,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 269,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 270,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 271,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 272,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 273,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 274,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 275,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 276,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 277,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 278,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 279,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 280,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 281,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 282,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 283,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 284,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 285,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 286,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 287,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 288,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 289,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 290,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 291,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 292,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 293,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 294,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 295,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 296,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 297,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 298,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 299,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 300,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 301,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 302,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 303,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 304,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 305,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 306,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 307,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 308,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 309,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 310,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 311,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 312,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 313,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 314,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 315,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 316,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 317,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 318,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 319,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 320,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 321,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 322,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 323,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 324,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 325,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 326,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 327,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 328,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 329,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 330,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 331,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 332,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 333,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 334,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 335,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 336,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 337,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 338,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 339,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 340,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 341,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 342,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 343,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 344,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 345,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 346,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 347,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 348,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 349,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 350,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 351,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 352,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 353,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 354,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 355,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 356,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 357,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 358,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 359,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 360,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 361,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 362,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 363,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 364,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 365,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 366,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 367,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 368,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 369,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 370,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 371,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 372,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 373,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 374,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 375,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 376,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 377,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 378,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 379,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 380,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 381,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 382,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 383,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 384,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 385,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 386,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 387,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 388,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 389,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 390,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 391,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 392,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 393,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 394,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 395,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 396,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 397,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 398,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 399,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 400,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 401,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 402,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 403,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 404,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 405,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 406,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 407,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 408,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 409,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 410,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 411,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 412,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 413,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 414,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 415,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 416,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 417,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 418,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 419,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 420,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 421,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 422,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 423,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 424,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 425,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 426,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 427,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 428,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 429,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 430,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 431,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 432,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 433,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 434,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 435,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 436,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 437,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 438,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 439,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 440,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 441,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 442,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 443,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 444,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 445,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 446,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 447,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 448,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 449,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 450,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 451,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 452,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 453,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 454,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 455,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 456,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 457,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 458,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 459,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 460,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 461,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 462,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 463,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 464,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 465,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 466,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 467,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 468,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 469,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 470,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 471,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 472,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 473,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 474,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 475,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 476,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 477,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 478,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 479,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 480,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 481,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 482,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 483,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 484,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 485,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 486,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 487,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 488,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 489,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 490,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 491,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 492,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 493,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 494,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 495,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 496,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 497,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 498,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 499,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 500,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 501,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 502,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 503,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 504,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 505,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 506,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 507,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 508,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 509,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 510,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 511,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 512,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 513,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 514,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 515,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 516,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 517,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 518,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 519,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 520,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 521,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 522,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 523,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 524,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 525,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 526,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 527,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 528,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 529,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 530,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 531,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 532,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 533,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 534,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 535,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 536,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 537,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 538,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 539,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 540,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 541,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 542,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 543,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 544,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 545,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 546,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 547,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 548,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 549,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 550,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 551,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 552,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 553,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 554,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 555,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 556,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 557,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 558,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 559,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 560,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 561,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 562,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 563,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 564,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 565,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 566,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 567,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 568,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 569,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 570,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 571,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 572,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 573,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 574,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 575,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 576,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 577,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 578,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 579,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 580,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 581,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 582,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 583,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 584,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 585,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 586,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 587,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 588,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 589,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 590,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 591,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 592,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 593,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 594,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 595,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 596,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 597,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 598,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 599,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 600,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 601,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 602,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 603,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 604,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 605,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 606,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 607,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 608,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 609,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 610,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 611,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 612,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 613,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 614,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 615,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 616,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 617,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 618,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 619,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 620,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 621,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 622,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 623,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 624,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 625,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 626,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 627,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 628,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 629,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 630,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 631,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 632,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 633,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 634,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 635,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 636,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 637,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 638,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 639,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 640,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 641,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 642,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 643,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 644,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 645,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 646,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 647,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 648,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 649,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 650,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 651,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 652,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 653,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 654,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 655,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 656,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 657,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 658,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 659,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 660,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 661,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 662,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 663,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 664,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 665,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 666,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 667,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 668,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 669,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 670,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 671,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 672,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 673,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 674,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 675,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 676,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 677,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 678,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 679,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 680,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 681,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 682,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 683,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 684,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 685,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 686,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 687,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 688,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 689,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 690,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 691,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 692,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 693,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 694,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 695,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 696,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 697,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 698,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 699,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 700,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 701,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 702,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 703,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 704,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 705,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 706,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 707,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 708,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 709,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 710,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 711,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 712,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 713,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 714,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 715,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 716,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 717,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 718,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 719,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 720,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 721,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 722,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 723,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 724,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 725,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 726,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 727,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 728,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 729,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 730,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 731,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 732,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 733,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 734,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 735,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 736,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 737,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 738,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 739,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 740,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 741,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 742,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 743,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 744,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 745,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 746,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 747,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 748,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 749,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 750,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 751,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 752,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 753,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 754,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 755,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 756,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 757,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 758,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 759,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 760,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 761,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 762,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 763,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 764,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 765,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 766,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 767,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 768,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 769,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 770,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 771,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 772,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 773,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 774,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 775,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 776,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 777,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 778,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 779,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 780,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 781,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 782,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 783,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 784,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 785,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 786,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 787,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 788,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 789,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 790,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 791,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 792,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 793,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 794,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 795,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 796,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 797,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 798,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 799,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 800,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 801,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 802,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 803,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 804,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 805,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 806,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 807,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 808,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 809,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 810,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 811,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 812,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 813,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 814,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 815,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 816,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 817,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 818,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 819,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 820,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 821,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 822,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 823,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 824,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 825,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 826,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 827,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 828,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 829,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 830,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 831,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 832,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 833,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 834,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 835,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 836,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 837,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 838,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 839,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 840,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 841,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 842,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 843,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 844,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 845,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 846,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 847,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 848,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 849,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 850,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 851,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 852,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 853,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 854,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 855,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 856,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 857,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 858,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 859,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 860,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 861,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 862,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 863,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 864,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 865,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 866,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 867,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 868,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 869,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 870,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 871,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 872,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 873,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 874,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 875,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 876,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 877,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 878,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 879,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 880,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 881,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 882,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 883,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 884,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 885,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 886,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 887,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 888,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 889,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 890,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 891,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 892,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 893,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 894,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 895,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 896,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 897,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 898,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 899,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 900,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 901,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 902,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 903,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 904,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 905,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 906,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 907,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 908,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 909,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 910,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 911,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 912,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 913,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 914,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 915,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 916,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 917,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 918,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 919,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 920,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 921,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 922,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 923,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 924,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 925,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 926,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 927,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 928,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 929,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 930,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 931,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 932,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 933,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 934,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 935,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 936,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 937,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 938,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 939,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 940,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 941,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 942,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 943,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 944,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 945,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 946,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 947,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 948,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 949,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 950,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 951,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 952,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 953,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 954,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 955,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 956,
+        "decision": 1,
+        "prediction": "D",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 957,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 958,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 959,
+        "decision": 1,
+        "prediction": "C",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 960,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 961,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 962,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 963,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 964,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 965,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 966,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 967,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 968,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 969,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 970,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 971,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 972,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 973,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 974,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 975,
+        "decision": 0,
+        "prediction": "Z",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 976,
+        "decision": 0,
+        "prediction": "C",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 977,
+        "decision": 1,
+        "prediction": "Z",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 978,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 979,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "D"
+    },
+    {
+        "question_idx": 980,
+        "decision": 0,
+        "prediction": "A",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 981,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 982,
+        "decision": 1,
+        "prediction": "B",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 983,
+        "decision": 0,
+        "prediction": "D",
+        "gold_answer": "B"
+    },
+    {
+        "question_idx": 984,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "C"
+    },
+    {
+        "question_idx": 985,
+        "decision": 1,
+        "prediction": "A",
+        "gold_answer": "A"
+    },
+    {
+        "question_idx": 986,
+        "decision": 0,
+        "prediction": "B",
+        "gold_answer": "B"
+    }
+]
